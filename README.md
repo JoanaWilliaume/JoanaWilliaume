@@ -1,16 +1,14 @@
-## Hi there 👋
+# Joana Williaume — Game Designer & Producer ˚˖𓍢ִ໋❀
 
-<!--
-**JoanaWilliaume/JoanaWilliaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!  
+I'm Joana, a Junior Game Designer & Producer from Lyon, France.
+Programming isn't my main strength, but I enjoy prototyping (sometimes) ad experimenting to improve my skills.
 
-Here are some ideas to get you started:
+༊࿐ . ⋆˚࿔ ｡˚ ° ⊹ ˚.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working in the video game industry, but also interested in tech and AI
+_Portfolio coming soon..._
+
+° ⊹ ˚. ⋆˚࿔ ｡˚ ° ⊹ ˚.
+
+Here's my [LinkedIn](https://www.linkedin.com/in/joanawilliaume/), feel free to check it out!
