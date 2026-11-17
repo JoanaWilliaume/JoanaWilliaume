@@ -2,11 +2,12 @@
 
 Hi!  
 I'm Joana, a Junior Game Designer & Producer from Lyon, France.
-Programming isn't my main strength, but I enjoy prototyping (sometimes) ad experimenting to improve my skills.
+Programming isn't my main strength, but I enjoy prototyping (sometimes) and experimenting to improve my skills.
 
 ༊࿐ . ⋆˚࿔ ｡˚ ° ⊹ ˚.
 
-I'm working in the video game industry, but also interested in tech and AI
+I'm working in the video game industry, but i'm also interested in tech and AI
+
 _Portfolio coming soon..._
 
 ° ⊹ ˚. ⋆˚࿔ ｡˚ ° ⊹ ˚.
